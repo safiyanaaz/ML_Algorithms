@@ -1,6 +1,9 @@
 # ML_Algorithms
 This repository consist of all the basics ml algorithm implemented
 
+# Logistic Regression
+File_name:Titanic_data_logistic_regression.ipnb
+Dataset:titanic.csv
 Problem Definition:
 Explore Titanic dataset and Explore about the people,both those who survived and those who did not,
 With today's technology answering questions through data analysis is now easier than ever.
